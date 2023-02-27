@@ -1,0 +1,19 @@
+{
+  "name": "testing-github-codespaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrifdez89/testing-github-codespaces.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrifdez89/testing-github-codespaces/issues"
+  },
+  "homepage": "https://github.com/gabrifdez89/testing-github-codespaces#readme"
+}
